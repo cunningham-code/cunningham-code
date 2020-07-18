@@ -7,7 +7,7 @@ This is where I would have a catchy one-liner about the kind of projects I do, b
 * I automate projects with Python --> https://github.com/cunningham-code/lcs
 * I love hackathons --> https://github.com/cunningham-code/liquick
 * I write guides for other developers --> https://github.com/cunningham-code/site-scarf
-* _I am looking forward to open sourcing more of my work in the future! Follow me here on GitHib for updates._
+* _I am looking forward to open sourcing more of my work in the future! Follow me here on GitHub for updates._
 
 Well let's see, you have already...
 - [x] Read my GitHub README
