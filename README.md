@@ -7,7 +7,7 @@ This is where I would have a catchy one-liner about the kind of projects I do, b
 * I automate projects with Python --> https://github.com/cunningham-code/lcs
 * I love hackathons --> https://github.com/cunningham-code/liquick
 * I write guides for other developers --> https://github.com/cunningham-code/site-scarf
-* _I am looking forward to open sourcing more of my work in the future! Follow me for udpates._
+* _I am looking forward to open sourcing more of my work in the future! Follow me here on GitHib for updates._
 
 Well let's see, you have already...
 - [x] Read my GitHub README
@@ -18,7 +18,7 @@ Well let's see, you have already...
 Now here are some next steps so we can stay in touch.
 - [ ] Follow me for  🐦 updates on what I am up to 🐦  on Twitter --> https://www.twitter.com/cunningham_code
 - [ ] Check out my  🎨 built from scratch 🎨  personal site --> https://www.johncunningham.co
-- [ ] If you are feeling  🎩 professional 🎩,  here is my LinkedIn --> https://www.johncunningham.co
+- [ ] If you are feeling  🎩 professional 🎩,  here is my LinkedIn --> https://www.linkedin.com/in/cunningham1212
 
     _Feel free to ask..._
     * ➡️ what are you currently working on?
