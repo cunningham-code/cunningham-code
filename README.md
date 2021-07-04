@@ -16,9 +16,9 @@ Well let's see, you have already...
   - [x] (etc)
   
 Now here are some next steps so we can stay in touch.
-- [ ] Follow me for  🐦 updates on what I am up to 🐦  on Twitter --> https://www.twitter.com/cunningham_code
-- [ ] Check out my  🎨 built from scratch 🎨  personal site --> https://www.johncunningham.co
-- [ ] If you are feeling  🎩 professional 🎩,  here is my LinkedIn --> https://www.linkedin.com/in/cunningham1212
+- [ ] Follow me for updates on what I am up to on Twitter --> https://www.twitter.com/cunningham_code
+- [ ] Check out my personal site --> https://www.johncunningham.co
+- [ ] Here is my LinkedIn --> https://www.linkedin.com/in/cunningham1212
 
     _Feel free to ask..._
     * ➡️ what are you currently working on?
