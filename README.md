@@ -17,7 +17,7 @@ Well let's see, you have already...
   
 Now here are some next steps so we can stay in touch.
 - [ ] Follow me for updates on what I am up to on Twitter --> https://www.twitter.com/cunningham_code
-- [ ] Check out my personal site --> https://www.johncunningham.co
+- [ ] Check out my personal site --> https://www.johnacunningham.com/
 - [ ] Here is my LinkedIn --> https://www.linkedin.com/in/cunningham1212
 
     _Feel free to ask..._
