@@ -1,4 +1,4 @@
-![Main image with logo](https://www.johncunningham.co/background/social.png)
+![Main image with logo](https://www.johnacunningham.com/background/social.png)
 ## Hi there 👋   - nice to meet you.
 This is where I would have a catchy one-liner about the kind of projects I do, but I work on all kinds of things.
 
